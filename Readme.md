@@ -19,3 +19,5 @@ All thanks to indeed.com to make this data public and easily available.
 
 ## Tasks
 You task would be to predict the rating/predict the text is positive or negative whether based on the review text. Also do some analysis of the text to get some insights and trends based on individual company/organization.
+
+Kaggle: https://www.kaggle.com/muhammedabdulazeem/employer-review-about-their-organization
